@@ -22,16 +22,16 @@ Python | NLP | Sentence Transformers | Streamlit | Scikit-Learn
 
 ## Match Results
 
-![Match Results](screenshots/Match_results.png)
+![Match Results](jobfit_ai/screenshots/Match_results.png)
 
 ## Skill Overlap Analysis
 
-![Skill Overlap](screenshots/skill_overlap.png)
+![Skill Overlap](jobfit_ai/screenshots/skill_overlap.png)
 
 ## Resume Section Analysis
 
-![Section Analysis](screenshots/resume_analysis.png)
+![Section Analysis](jobfit_ai/screenshots/resume_analysis.png)
 
 ## LLM Feedback
 
-![Multi Job Ranking](screenshots/feedback.png)
+![Multi Job Ranking](jobfit_ai/screenshots/feedback.png)
