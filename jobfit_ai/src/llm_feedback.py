@@ -35,10 +35,10 @@ def generate_basic_feedback(
     elif final_score >= 60:
         feedback.append("Consider strengthening experience and project descriptions around the missing skills.")
     else:
-        feedback.append("Resume should be tailored significantly before applying.")
+        feedback.append("Resume may need targeted tailoring, but review transferable skills before assuming weak fit.")
 
     feedback.append("\nInterview Preparation:")
-    feedback.append("Be prepared to discuss projects that demonstrate the matched technical skills.")
+    feedback.append("Be prepared to explain how your projects and past experience transfer to the job requirements.")
 
     return "\n".join(feedback)
 
@@ -67,20 +67,39 @@ def generate_llm_feedback(
         client = OpenAI(api_key=api_key)
 
         prompt = f"""
-You are an expert technical recruiter and resume coach.
+You are an expert technical recruiter, ML hiring manager, and resume coach.
 
-Analyze this resume against the job description.
+Your job is to evaluate this candidate against the job description fairly.
+
+Important evaluation rules:
+
+1. Do NOT over-penalize missing exact keywords.
+2. Do NOT assume the candidate lacks a skill only because the exact job-posting phrase is missing.
+3. Look for transferable skills, related projects, and equivalent technical experience.
+4. Distinguish between:
+   - Direct matches
+   - Transferable matches
+   - Domain knowledge gaps
+   - Tool-specific gaps
+   - True technical gaps
+5. Weight demonstrated project experience more heavily than keyword repetition.
+6. Treat domain gaps differently from technical gaps.
+   Example: If the job asks for fraud detection but the candidate has insurance risk modeling or predictive modeling experience, recognize that as transferable ML/risk experience.
+7. Be realistic but not overly harsh.
+8. Do not invent experience the candidate does not have.
+9. Recommend truthful resume improvements only.
+10. Explain how the candidate can position existing experience for the role.
 
 Job Name:
 {job_name}
 
-Final Match Score:
+Algorithmic Match Score:
 {final_score}%
 
-Matched Skills:
+Matched Skills Detected:
 {matched_skills}
 
-Missing Skills:
+Potential Missing Keywords Detected:
 {missing_skills}
 
 Resume:
@@ -92,16 +111,38 @@ Job Description:
 Return these sections:
 
 1. Overall Match Assessment
-2. Why This Candidate Matches
-3. Missing or Weak Areas
-4. Resume Bullet Recommendations
-5. Keywords to Add Truthfully
-6. Interview Questions to Practice
-7. Hiring Manager Concerns
-8. Final Recommendation
+   - Give a balanced assessment.
+   - Mention whether gaps are mostly technical, domain-specific, or wording/keyword-related.
 
-Do not invent experience.
-Keep it practical and concise.
+2. Direct Matches
+   - List skills, tools, and experiences that directly align.
+
+3. Transferable Strengths
+   - Identify related experience that maps to the job even if exact keywords are missing.
+   - Explain why each transferable skill matters.
+
+4. Missing or Weak Areas
+   - Separate true technical gaps from domain or terminology gaps.
+   - Label each gap as Critical, Moderate, or Easily Learnable.
+
+5. Resume Bullet Recommendations
+   - Suggest bullet improvements based only on experience already present.
+   - Do not fabricate experience.
+
+6. Keywords to Add Truthfully
+   - Suggest keywords only if supported by the resume or projects.
+
+7. Interview Questions to Practice
+   - Include technical, project-based, and domain-transfer questions.
+
+8. Hiring Manager Concerns
+   - Explain likely concerns and how the candidate can address them.
+
+9. Final Recommendation
+   - State whether this is a strong, moderate, or stretch application.
+   - Consider both direct matches and transferable skills.
+
+Keep the response practical, specific, and concise.
 """
 
         response = client.responses.create(
