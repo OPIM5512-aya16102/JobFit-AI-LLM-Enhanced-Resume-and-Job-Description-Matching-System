@@ -13,6 +13,24 @@ The system helps candidates identify missing skills, tailor resumes, and priorit
 Tech Stack:
 Python | NLP | Sentence Transformers | Streamlit | Scikit-Learn
 
+# Architecture 
+
+Resume
+    ↓
+Parser
+    ↓
+Preprocessing
+    ↓
+TF-IDF
++
+Sentence Transformers
++
+Skill Extraction
+    ↓
+Weighted Match Score
+    ↓
+Streamlit Dashboard
+
 # Overview
 
 ## Home Screen
@@ -35,3 +53,12 @@ Python | NLP | Sentence Transformers | Streamlit | Scikit-Learn
 ## LLM Feedback
 
 ![Multi Job Ranking](jobfit_ai/screenshots/feedback.png)
+
+## Multi-Job Postings 
+
+![Multi Job Ranking](jobfit_ai/screenshots/multi_job.png)
+
+## Rankings
+
+![Multi Job Ranking](jobfit_ai/screenshots/ranking.png)
+
