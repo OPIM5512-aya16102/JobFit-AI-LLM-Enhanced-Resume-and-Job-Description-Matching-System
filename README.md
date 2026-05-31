@@ -17,7 +17,7 @@ Python | NLP | Sentence Transformers | Streamlit | Scikit-Learn
 
 ## Home Screen
 
-![Home](screenshots/home_screen.png)
+![Home](jobfit_ai/screenshots/home_screen.png)
 
 
 ## Match Results
