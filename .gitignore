@@ -1,0 +1,9 @@
+.env
+jobfit_ai/.env
+venv/
+jobfit_ai/venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+jobfit_ai/outputs/
