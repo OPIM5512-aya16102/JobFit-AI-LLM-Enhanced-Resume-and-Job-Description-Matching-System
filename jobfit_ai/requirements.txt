@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+spacy==3.7.5
+pdfplumber
+python-docx
+streamlit
+openai
+python-dotenv

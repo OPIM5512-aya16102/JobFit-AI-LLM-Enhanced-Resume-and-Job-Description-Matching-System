@@ -1,0 +1,51 @@
+About the job
+About Us
+At ExxonMobil, our vision is to lead in energy innovations that advance modern living and a net-zero future. As one of the world’s largest publicly traded energy and chemical companies, we are powered by a unique and diverse workforce fueled by the pride in what we do and what we stand for.
+
+The success of our Upstream, Product Solutions and Low Carbon Solutions businesses is the result of the talent, curiosity and drive of our people. They bring solutions every day to optimize our strategy in energy, chemicals, lubricants and lower-emissions technologies.
+
+We invite you to bring your ideas to ExxonMobil to help create sustainable solutions that improve quality of life and meet society’s evolving needs. Learn more about our What and our Why and how we can work together.
+
+Job Group Capability
+
+Data Science, Digital & Analytics
+
+Job Group
+
+Data Management
+
+Job Role Description
+
+The Data Architect - Advanced is responsible for architecting and designing data solutions and services enabling ExxonMobil businesses. They are considered to be technical leaders, visionaries, and liaisons between business and IT. This role is for those architects focused on data design, implementation, and support processes (typically includes System or Solution Architects focused on Data & Analytics, Data architects in CDO / business)
+
+Job Role Responsibilities
+
+  Ensures that aspects of an architectural design have been clearly thought out, articulated and fully aligned with business needs while addressing impacts to other underlying platforms and technology components
+ Leverages existing reference architectures, technology strategies, business capabilities, and gaps to deliver optimal solutions based on the right prioritization within the given funding parameters
+ Creates logical and physical architectures and designs
+ Develops prototypes and designs / builds architectural runways for delivery teams
+ Maintains application and / or technology portfolio information
+
+Leads by example by demonstrating behaviors aligned with ExxonMobil Expectations of Leaders
+
+Functional Skills
+
+Data Visualization
+
+Data Modeling
+
+Applied Software Engineering for Data
+
+Data Architecture & Strategy
+
+Data Integration
+
+Data Compliance Governance & Security
+
+Data Management
+
+Alternate Location:
+
+Nothing herein is intended to override the corporate separateness of local entities. Working relationships discussed herein do not necessarily represent a reporting connection, but may reflect a functional guidance, stewardship, or service relationship.
+
+Exxon Mobil Corporation has numerous affiliates, many with names that include ExxonMobil, Exxon, Esso and Mobil. For convenience and simplicity, those terms and terms like corporation, company, our, we and its are sometimes used as abbreviated references to specific affiliates or affiliate groups. Abbreviated references describing global or regional operational organizations and global or regional business lines are also sometimes used for convenience and simplicity. Similarly, ExxonMobil has business relationships with thousands of customers, suppliers, governments, and others. For convenience and simplicity, words like venture, joint venture, partnership, co-venturer, and partner are used to indicate business relationships involving common activities and interests, and those words may not indicate precise legal relationships.

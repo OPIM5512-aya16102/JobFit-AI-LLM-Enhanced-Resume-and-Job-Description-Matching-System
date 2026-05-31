@@ -1,0 +1,57 @@
+About the job
+Job Location
+
+CINCINNATI GENERAL OFFICES
+
+Job Description
+
+Do you enjoy solving billion-dollar data science problems across trillions of data points? Are you passionate about working at the cutting edge of interdisciplinary boundaries, where computer science meets hard science? If you like turning untidy data into nonobvious insights and surprising business leaders with the transformative power of Artificial Intelligence (AI), including Generative and Agentic AI, we want you on our team at P&G.
+
+As a Data Scientist in our organization, you will play a crucial role in disrupting current business practices by designing and implementing innovative models that enhance our processes. You will be expected to constructively research, design, and customize algorithms tailored to various problems and data types. Utilizing your expertise in Operations Research (including optimization and simulation) and machine learning models (such as tree models, deep learning, and reinforcement learning), you will directly contribute to the development of scalable Data Science algorithms. Your work will also integrate advanced techniques from Generative and Agentic AI to create more dynamic and responsive models, enhancing our analytical capabilities. You will collaborate with Data and AI Engineering teams to productionize these solutions, applying exploratory data analysis, feature engineering, and model building within cloud environments on massive datasets to deliver accurate and impactful insights. Additionally, you will mentor others as a technical coach and become a recognized expert in one or more Data Science techniques, quantifying the improvements in business outcomes resulting from your work.
+
+Key Responsibilities
+
+Algorithm Design & Development: Directly contribute to the design and development of scalable Data Science algorithms.
+Collaboration: Work closely with Data and Software Engineering teams to effectively productionize algorithms.
+Data Analysis: Apply thorough technical knowledge to large datasets, conducting exploratory data analysis, feature engineering, and model building.
+Coaching & Mentorship: Develop others as a technical coach, sharing your expertise and insights.
+Expertise Development: Become a known expert in one or multiple Data Science techniques and methodologies.
+
+Job Qualifications
+
+Required Qualifications:
+
+Education: Pursuing or has graduated with a Master’s degree in a quantitative field (Operations Research, Computer Science, Engineering, Applied Mathematics, Statistics, Physics, Analytics, etc.) or possess equivalent work experience.
+Technical Skills: Proficient in programming languages such as Python and familiar with data science/machine learning libraries like OpenCV, scikit-learn, PyTorch, TensorFlow/Keras, and Pandas. Demonstrated ability to develop and test code within cloud environments.
+Communication: Strong written and verbal communication skills, with the ability to influence others to take action.
+
+Preferred Qualifications
+
+Analytic Methodologies: Experience applying analytic methodologies such as Machine Learning, Optimization, Simulation, and Generative and Agentic AI to real-world problems.
+Continuous Learning: A commitment to lifelong learning, keeping up to date with the latest technology trends, and a willingness to teach others while learning new techniques.
+Data Handling & Cloud: Experience with large datasets and developing in cloud computing platforms such as GCP or Azure.
+DevOps Familiarity: Familiarity with DevOps environments, including tools like Git and CI/CD practices.
+
+Immigration Sponsorship is not available for this role. For more information regarding who is eligible for hire at P&G along with other work authorization FAQ’s, please click HERE.
+
+Procter & Gamble participates in e-verify as required by law.
+
+Qualified individuals will not be disadvantaged based on being unemployed.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+Job Schedule
+
+Full time
+
+Job Number
+
+R000135859
+
+Job Segmentation
+
+Entry Level
+
+Starting Pay / Salary Range
+
+$85,000.00 - $122,200.00 / year

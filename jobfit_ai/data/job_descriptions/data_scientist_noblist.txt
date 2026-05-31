@@ -1,0 +1,72 @@
+About the job
+Responsibilities
+
+Noblis ESI is seeking a Data Scientist I to provide analytic, technical, and advisory support to our SETA contract in Chantilly VA. The selected candidate will help advance mission-critical initiatives by applying data science, modeling, and analytic tradecraft to enhance enterprise capabilities, inform senior decision-making, and drive innovation across the Directorate community.
+
+Responsibilities
+
+Develop, refine, and operationalize statistical, machine learning, and predictive models to support enterprise Directorate decisions. 
+Conduct exploratory data analysis (EDA), feature engineering, and data quality assessments across diverse mission datasets. 
+Build reproducible analytic workflows and pipelines to support enterprise-level assessments and long-term analytic baselines. 
+Provide analytic insights to customer leadership on system performance, collection strategies, and future architecture planning. 
+Evaluate system- and enterprise-level tradeoffs using quantitative methods, simulation outputs, and mission modeling tools. 
+Support enterprise integration activities by translating complex analytic findings into actionable recommendations for senior stakeholders. 
+Work with structured and unstructured data from multiple NRO and IC sources, ensuring proper handling, transformation, and integration. 
+Develop dashboards, visualizations, and analytic products that clearly communicate trends, uncertainties, and mission impacts. 
+Implement best practices for data governance, metadata tagging, and analytic reproducibility. 
+Partner with government leads, system engineers, modelers, and mission analysts across the organization. 
+Present analytic results to technical and non-technical audiences, including senior government officials. 
+Contribute to working groups, tiger teams, and enterprise-level studies supporting customer priorities. 
+
+Required Qualifications
+
+Active TS/SCI with CI Polygraph. 
+US Citizenship is required
+Bachelor's degree and 0 years OR Master's degree and 0 years OR Associate's degree and 3 years OR High School/GED with 6 years. 
+Bachelor’s degree in Data Science, Computer Science, Mathematics, Engineering, Statistics, or related field. Alternatively, demonstrate an additional 4 years of related experience per level if no bachelor's degree is held. 
+Demonstrated experience applying statistical analysis, machine learning, or quantitative modeling to complex datasets. 
+Proficiency with Python, R, or similar analytic languages. 
+Experience with data visualization tools (e.g., Tableau, Power BI, Plotly, matplotlib). 
+Ability to communicate complex technical concepts clearly and concisely. 
+
+Desired Qualifications
+
+Degree in a quantitative or technical field. 
+Experience supporting NRO, NGA, or other IC mission partners. 
+Experience with cloud environments (AWS, C2S, GovCloud) and distributed computing. 
+Knowledge of mission modeling tools, simulation frameworks, or GEOINT performance metrics. 
+Background in operations research, optimization, or decision science. 
+
+Overview
+
+Overview
+
+Noblis and our wholly owned subsidiaries, Noblis ESI and Noblis MSD, take on some of the nation’s toughest challenges, delivering advanced solutions to our customers’ most critical missions. We bring together leading scientific, engineering, and management expertise in a culture grounded in objectivity and collaboration, ensuring our work creates lasting impact across federal missions.
+
+We work with a broad range of government agencies in the defense, intelligence, and federal civilian sectors. Learn more and find opportunities at careers.noblis.org
+
+Why Work at Noblis
+
+At Noblis, we share a passion for excellence and innovation, and we create an environment where people can do meaningful work while maintaining the balance that keeps them energized and fulfilled. We seek out individuals with a natural curiosity and desire to collaborate and learn. We believe our people are our greatest strength, and we consistently seek exceptionally skilled, mission‑driven professionals who care deeply about doing work that enriches lives and makes our nation safer.
+
+Noblis has earned numerous workplace awards for our culture, our commitment to employee well‑being, and our dedication to meaningful, impactful work. We also maintain a drug‑free workplace.
+
+Remote/hybrid status is subject to change based on Noblis and/or government requirements.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, sex, age, national origin, religion, physical or mental disability, pregnancy/childbirth and related medical conditions, veteran or military status, or any other characteristics protected by applicable federal, state, or local law.
+
+If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact us.
+
+EEO is the Law | E-Verify | Right to Work
+
+Total Rewards
+
+At Noblis we recognize and reward your contributions, provide you with growth opportunities, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, and work-life programs. Our award programs acknowledge employees for exceptional performance and superior demonstration of our service standards. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in our benefit programs. Other offerings may be provided for employees not within this category. We encourage you to learn more about our total benefits by visiting the Benefits page on our Careers site.
+
+Compensation at Noblis is determined by various factors, including but not limited to, the combination of education, certifications, knowledge, skills, competencies, and experience, internal and external equity, location, clearance level, as well as contract-specific affordability, organizational requirements and applicable employment laws. The projected compensation range for this position is based on full time status. For part time or on-call staff, compensation is proportionately adjusted based on hours worked. While monetary compensation is important, it's just one component of Noblis’ total compensation package.
+
+Posted Salary Range
+
+USD $82,500.00 - USD $128,925.00 /Yr.
