@@ -35,8 +35,10 @@ Streamlit Dashboard
 
 ## HOW TO USE:
 
-Step 1: Clone repository and create .env file: This is where you will store your API key
+Step 1: Clone repository and create .env file: This is where you will store your API key (OPENAI_API_KEY=your_api_key_here)
+
 Step 2: Purchase an API key from OpenAI: https://platform.openai.com/api-keys?utm_source=chatgpt.com, copy and paste immediately in file created in Step 1.
+
 Step 3: I used VS Code to create this project: python3 -m streamlit run src/app.py to launch the app!
 
 
